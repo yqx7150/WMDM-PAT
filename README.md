@@ -1,15 +1,15 @@
 ​     
 ​    
 
-## The pipeline for PAT dual-domain data synthesis
+## Sparse view PAT reconstruction based on alternating cyclic iteration of wavelet refinement multi-diffusion model
 
 ![image1](fig1.tif)
 
-## Synthetic mouse abdominal images
+## The actual PAT system
 
 ![image2](fig2.tif)
 
-## Synthetic mouse abdominal sinograms
+## Reconstruction results of data acquired from actual PAT System
 
 ![image3](fig3.tif)
 
@@ -39,5 +39,3 @@
 
 *  Generative model for sparse photoacoustic tomography artifact removal      
    [<font size=5>**[Paper]**</font>](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12745/1274503/Generative-model-for-sparse-photoacoustic-tomography-artifact-removal/10.1117/12.2683128.short?SSO=1)         
-
-*  PAT-public-data from NCU [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-public-data)
