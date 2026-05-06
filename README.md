@@ -3,15 +3,15 @@
 
 ## The pipeline for PAT dual-domain data synthesis
 
-![image1](1.png)
+![image1](fig1.tif)
 
 ## Synthetic mouse abdominal images
 
-![image2](2.jpg)
+![image2](fig2.tif)
 
 ## Synthetic mouse abdominal sinograms
 
-![image3](3.jpg)
+![image3](fig3.tif)
 
 
 ### Other Related Projects
